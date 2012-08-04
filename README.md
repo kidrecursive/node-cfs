@@ -6,7 +6,6 @@ A node implementation of Kohana's Cascading File System.
 
 [http://kohanaframework.org/]
 
-\\
 Expands on Mikito Takada's previos efforts:
 
 [http://blog.mixu.net/2011/02/18/cascading-file-loading-in-node-js/]
