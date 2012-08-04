@@ -10,7 +10,7 @@ describe('CFS', function() {
   
   describe('#findFile()', function() {
     it('should return false on error', function() {
-      CFS.findFile('dugi', 'howser').should.be.a(false);
+      CFS.findFile('dugi', 'howser').should.equal(false);
     });
   });
 }); 
